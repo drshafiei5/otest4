@@ -1,0 +1,64 @@
+{
+  "home": [
+    {
+      "address": "address",
+      "description": "123",
+      "phone": "9090",
+      "coordinates": [
+        51.51575070438364,
+        -0.18107588190380722
+      ],
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "user1@gmail.com",
+      "password": "$2a$10$OienG/tjvEHSm16Ss4zCvOla85qIX56sdq3tMa87SvNH5H4AtyYs.",
+      "username": "user1",
+      "id": 1
+    },
+    {
+      "email": "user2@gmail.com",
+      "password": "$2a$10$2Yon/3P1XDbpFXqrgvVw.enZ1TVtIdLp9ot2rWvzuLLf/1BeaaeCm",
+      "username": "2",
+      "id": 2
+    },
+    {
+      "email": "user3@gmail.com",
+      "password": "$2a$10$wdK3EL3KtVFOJqr7M1C4muthVagvh5XdPyyZHzBkcPbOaXFR/pcOK",
+      "username": "3",
+      "id": 3
+    },
+    {
+      "email": "91@gmail.com",
+      "password": "$2a$10$7ikc2HtnSH2lpCYpEoWvOuTWbrN4BadwObO41mymg4U6r.zuTMyZe",
+      "username": "91@gmail.com",
+      "id": 4
+    },
+    {
+      "email": "31@gmail.com",
+      "password": "$2a$10$Vl6q1zmGIGY.c2Sz1ZWW..JKFeodcoYKaIivctUkyL.Q2zkO4erVC",
+      "username": "31@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "21@gmail.com",
+      "password": "$2a$10$6B/IOPNJxHaEoYrqX7yBxupuzzwGj/2N9lFk/uufWBdN2Z.wx2PMi",
+      "username": "21@gmail.com",
+      "id": 6
+    },
+    {
+      "email": "909@gmail.co",
+      "password": "$2a$10$PcHb9FHrEF99Bu8G37kUv.DqLKNldKAWJcTLLHqILDjM6SldycGXG",
+      "username": "909@gmail.co",
+      "id": 7
+    },
+    {
+      "email": "93@gmail.com",
+      "password": "$2a$10$yC2Dzz2cA.7lZ.1nEtwnR.28Tbx5REWtBwOnIlBPOpvt7nZdCx2ka",
+      "username": "93@gmail.com",
+      "id": 8
+    }
+  ]
+}
